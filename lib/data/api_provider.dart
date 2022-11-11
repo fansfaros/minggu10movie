@@ -3,7 +3,7 @@ import "package:http/http.dart" show Client, Response;
 import 'package:minggu10_movie/model/popular_movies.dart';
 
 class ApiProvider {
-  String apiKey = '3d92c8f5549af5edfbd8d9b049029bcb';
+  String apiKey = 'eed39597cd47f68f66c96a1f4554cfb0';
   String baseUrl = 'https://api.themoviedb.org/3';
 
   Client client = Client();
